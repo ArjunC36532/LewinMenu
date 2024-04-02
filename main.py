@@ -84,7 +84,7 @@ class Menu:
         self.regularSauce.grid(row = 4, column = 1)
 
     def calculateTotal(self):
-        
+
 
 
     def quit(self):
